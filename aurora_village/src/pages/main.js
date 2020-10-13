@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../components/Header.jsx';
+import WhatsApp from '../components/WhatsApp';
 import VideoSection from '../components/VideoSection';
 
 class Main extends React.Component {
@@ -7,6 +8,7 @@ class Main extends React.Component {
     return (
       <main>
         <Header />
+        <WhatsApp />
         <VideoSection />
       </main>
     );
