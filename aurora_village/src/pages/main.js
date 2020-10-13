@@ -9,9 +9,9 @@ class Main extends React.Component {
     return (
       <main>
         <Header />
-        <Mapa />
         <WhatsApp />
         <VideoSection />
+        <Mapa />
       </main>
     );
   }
