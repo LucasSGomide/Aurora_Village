@@ -15,8 +15,10 @@ class Main extends React.Component {
         <WhatsApp />
         <VideoSection />
         <Diferenciais />
-        <ContactSection />
-        <Mapa />
+        <div className="section-web">
+          <ContactSection />
+          <Mapa />
+        </div>
         <Footer />
 
       </main>

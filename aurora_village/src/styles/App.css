@@ -208,4 +208,14 @@ footer {
   .video-section {
     margin-top: 50px;
   }
+
+  .todos-cards-dif {
+    display: flex;
+  }
+
+  .section-web {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
 }
