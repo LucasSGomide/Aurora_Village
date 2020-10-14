@@ -5,6 +5,7 @@ import WhatsApp from '../components/WhatsApp';
 import VideoSection from '../components/VideoSection';
 import ContactSection from '../components/ContactSection';
 import Diferenciais from '../components/Diferenciais';
+import Footer from '../components/Footer';
 
 class Main extends React.Component {
   render() {
@@ -16,6 +17,8 @@ class Main extends React.Component {
         <Diferenciais />
         <ContactSection />
         <Mapa />
+        <Footer />
+
       </main>
     );
   }
