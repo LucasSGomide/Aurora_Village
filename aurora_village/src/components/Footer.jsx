@@ -4,7 +4,7 @@ class Footer extends React.Component {
   render() {
     return (
       <footer>
-        <section>
+        <section className="contato-footer">
           <div>
             <span>LIGUE PARA NÓS:</span>
             <span>³¹ 98654-0017</span>
