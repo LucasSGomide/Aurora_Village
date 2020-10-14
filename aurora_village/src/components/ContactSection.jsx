@@ -23,7 +23,7 @@ class ContactSection extends React.Component {
 
   render() {
     return (
-      <section className="contact-section">
+      <section id="contato" className="contact-section">
         <div>
           <h2>LOTES DE 300M² EM UMA LOCALIZAÇÃO INCOMPARÁVEL</h2>
           <h4>Localização privilegiada a X minutos do centro de itaúna...</h4>

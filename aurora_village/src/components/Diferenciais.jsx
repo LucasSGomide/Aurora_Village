@@ -8,7 +8,7 @@ import construcao from '../images/construcao.png'
 class Diferenciais extends React.Component {
   render() {
     return (
-      <div className="diferenciais">
+      <div id="dif" className="diferenciais">
         <div>
           <p>PORQUE É UM EMPREENDIMENTO ÚNICO</p>
           <h2>DIFERENCIAIS</h2>
