@@ -7,11 +7,10 @@ class Header extends React.Component {
       <header>
         <img src={logo} alt="Logomarca Aurora Village" />
         <nav>
-          <a href="diferenciais">DIFERENCIAIS</a>
-          <a href="video">ASSISTA O VÍDEO</a>
-          <a href="estrutura">ESTRUTURA</a>
-          <a href="localizacao">LOCALIZAÇÃO</a>
-          <a href="contato">CONTATO</a>
+          <a href="#dif">DIFERENCIAIS</a>
+          <a href="#video">ASSISTA O VÍDEO</a>
+          <a href="#loc">LOCALIZAÇÃO</a>
+          <a href="#contato">CONTATO</a>
         </nav>
       </header>
     );

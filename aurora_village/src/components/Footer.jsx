@@ -5,17 +5,16 @@ class Footer extends React.Component {
     return (
       <footer>
         <section className="contato-footer">
-          <div>
-            <span>LIGUE PARA NÓS:</span>
-            <span>³¹ 98654-0017</span>
+          <div className="div-footer">
+            <p className="font-white">LIGUE PARA NÓS:</p>
+            <p>³¹ 98654-0017</p>
           </div>
-          <div>
-            <span>ENVIE UM E-MAIL:</span>
-            <span>contato.empreendimentosms@gmail.com</span>
+          <div className="div-footer">
+            <p className="font-white">ENVIE UM E-MAIL:</p>
+            <p>contato.empreendimentosms@gmail.com</p>
           </div>
         </section>
-        <hr />
-        <section>
+        <section className="direitos-reservados">
           <div>
             ©2020. Empreendimentos Moreira Santiago. Todos os direitos reservados. All rights reserverd
           </div>
